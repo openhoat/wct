@@ -1,0 +1,15 @@
+/.DS_Store/
+/.idea/
+/.npm/
+/.wireit/
+/.vscode/
+/dist/
+/node_modules/
+/storybook-static/
+/tmp/
+
+/.envrc
+/.env.local
+
+*.log
+tsconfig.tsbuildinfo

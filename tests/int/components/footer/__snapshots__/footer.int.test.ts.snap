@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer Component should render footer component given user is NOT logged in 1`] = `
+"<div id="footer">
+    <h3>Need help?</h3>
+    <p>Contact | Map | Log in</p>
+</div>"
+`;
+
+exports[`Footer Component should render footer component given user is logged in 1`] = `
+"<style>[object Object]</style>
+<div id="footer">
+    <h3>Need help?</h3>
+    <p>Contact | Map | Log out</p>
+</div>"
+`;
